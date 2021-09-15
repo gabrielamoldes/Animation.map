@@ -13,7 +13,7 @@ Una vez que se muestra el mapa, presionar el botón "mostrar paradas"
 Marcar la ruta con una linea continua entre Harvard y MIT y puntos en cada parada del autobus.
 
 ## Screenshot
-
+![map](https://github.com/gabrielamoldes/Animation.map/blob/main/Screenshot%202021-09-15%20210915.png)
 
 ### LICENCIA INFORMACION:
 
